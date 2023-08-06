@@ -1,4 +1,4 @@
-module github.com/MrPenguin07/MrPenguin07.github.io
+module github.com/mrpenguin07/mrpenguin07.github.io
 
 go 1.19
 

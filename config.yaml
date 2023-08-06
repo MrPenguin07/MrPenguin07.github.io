@@ -64,7 +64,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/MrPenguin07/MrPenguin07.github.io
+  gitRepo: https://github.com/mrpenguin07/mrpenguin07.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -292,4 +292,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false

@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Enthusiast
+designation: Computing Enthusiast
 # your company information
 company:
   name: Your Company here!
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a FOSS & linux enthusiast -scratch that- masochist. The kernel and security hardening float my boat.'
+summary: 'I am a FOSS & linux enthusiast. Kernel and security hardening float my boat.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -64,14 +64,14 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Cisco Certified Network Administrator (Coming Soon)
+  name: Cisco Certified Network Administrator
   url: "https://www.credly.com/org/cisco/badge/ccna"
-  badge: "https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"
+  badge: "files/ccna.png"
 
 - type: certification
-  name: Red Hat Certified Engineer (RHCE)(TBA)
+  name: Red Hat Certified Engineer (RHCE)
   url: "https://www.credly.com/org/red-hat-inc/badge/red-hat-certified-engineer-rhce"
-  badge: "https://images.credly.com/size/340x340/images/19c4e804-54fe-4857-b022-7cfd5520596c/image.png"
+  badge: "files/rhce.png"
 
 - type: soft-skill-indicator
   name: Technical Skills
@@ -80,16 +80,16 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 80
+  percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 80
+  name: Enthusiasm/Dedication
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Learning Speed
   percentage: 85
   color: orange
 
