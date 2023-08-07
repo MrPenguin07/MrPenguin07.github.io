@@ -84,7 +84,7 @@ badges:
   color: blue
 
 - type: soft-skill-indicator
-  name: Enthusiasm/Dedication
+  name: Enthusiasm
   percentage: 100
   color: yellow
 

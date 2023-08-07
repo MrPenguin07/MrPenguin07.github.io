@@ -2,7 +2,7 @@
 name: "Mr Penguin"
 nickname: ""
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Hi, I'm"
 image: "images/author/profile.jpg"
 # give you some contact information. they will be used in the footer
 contactInfo:
@@ -14,10 +14,10 @@ contactInfo:
 summary:
   - I'm something of a tech Swiss army knife
   - I'm a Gentoo masochist 
-  - Quite capable working with everything;
+  - Capable working with everything;
   - -from Linux, Docker and Nix deployments,
   - -to networking, security and cloud, 
   - -to web cad & graphic design,
   - -and building efficient custom kernels.
-  - I've been known to squash bugs, of the written kind  
+  - Been known to squash bugs (of the written kind)  
   - Most of all I enjoy being a part of technologies evolve.
