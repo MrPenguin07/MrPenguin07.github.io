@@ -31,7 +31,7 @@ projects:
   tags: ["academic", "networking", "ccna"]
 
 - name: GrapheneOS
-  logo: /images/sections/projects/tensorflow.png
+  logo: /images/sections/projects/grapheneos.png
   role: User, Bug Reporter
   timeline: "2018 - Present"
   repo: https://github.com/GrapheneOS
@@ -42,7 +42,7 @@ projects:
 - name: Kernel Development
   role: User, Bug Reporter
   timeline: "2004 - Present"
-  repo: "https://github.com/torvalds/linux"
+  repo: https://github.com/torvalds/linux
   summary: Linux kernel source tree.
   tags: ["hobby","kernel", "drivers", "schedulers", "modules"]
 
@@ -50,7 +50,7 @@ projects:
   logo: /images/sections/projects/aws.png
   role: Student
   timeline: "2022 - Present"
-  url: "https://aws.amazon.com/" 
+  url: "https://aws.amazon.com/"
   summary: Currently preparing to gain AWS qualifications.
   tags: ["academic", "cloud", "architect", "devops"]
 
@@ -67,7 +67,7 @@ projects:
   logo: /images/sections/projects/bcachefs.png
   role: Guinea Pig
   timeline: "2023 - Present"
-  url: https://bcachefs.org/
+  url: "https://bcachefs.org/"
   summary: Bcachefs is an advanced new filesystem for Linux, with an emphasis on reliability and robustness and the complete set of features one would expect from a modern filesystem.
   tags: ["hobby", "filesystem", "copy-on-write", "data-checksumming"]
 
