@@ -14,9 +14,10 @@ contactInfo:
 summary:
   - I'm something of a tech Swiss army knife
   - I'm a Gentoo masochist 
-  - I take on any challenge;
-  - -Linux, Docker and Nix deployments,
-  - -to Networking, Security and Cloud, 
-  - -to Web CAD & Graphic Design,
-  - -and building efficient custom Kernels. 
+  - I take on any challenge
   - I love being part of tech evolution.
+ # - -Linux, Docker and Nix deployments,
+ # - -to Networking, Security and Cloud, 
+ # - -to Web CAD & Graphic Design,
+ # - -and building efficient custom Kernels. 
+
