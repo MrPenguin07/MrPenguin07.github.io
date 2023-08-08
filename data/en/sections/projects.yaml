@@ -79,7 +79,7 @@ projects:
   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere. That which was never deployed cannot be broken.
   tags: ["hobby", "ai", "image upscaler", "esrgan"]
 
-  - name: SwayWM 
+- name: SwayWM 
   logo: /images/sections/projects/swaywm.png
   role: User, Bug Reporter
   timeline: "2019 - Present"
@@ -87,7 +87,7 @@ projects:
   summary: A highly configurable, i3-compatible Wayland compositor. 
   tags: ["hobby", "wayland", "tiling-wm", "no-more-tearing"]
 
-  - name: Distrobox
+- name: Distrobox
   logo: /images/sections/projects/distrobox.png
   role: User
   timeline: "2020 - Present"
