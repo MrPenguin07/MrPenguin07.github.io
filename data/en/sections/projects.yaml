@@ -21,44 +21,76 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+- name: Cisco
+  logo: /images/sections/skills/cisco.png
+  role: Student
+  timeline: "2022 - Present"
+  repo: https://github.com/cisco # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: Currently preparing to take the CCNA exam.
+  tags: ["academic", "networking", "ccna"]
 
-- name: Tensorflow
+- name: GrapheneOS
   logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+  role: User, Bug Reporter
+  timeline: "2018 - Present"
+  repo: https://github.com/GrapheneOS
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: Security and privacy focused mobile OS with Android app compatibility. We focus on developing substantial privacy and security improvements.
+  tags: ["hobby", "security", "privacy"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Kernel Development
+  role: User, Bug Reporter
+  timeline: "2004 - Present"
+  repo: "https://github.com/torvalds/linux"
+  summary: Linux kernel source tree.
+  tags: ["hobby","kernel", "drivers", "schedulers", "modules"]
+
+- name: AWS
+  logo: /images/sections/projects/aws.png
+  role: Student
+  timeline: "2022 - Present"
+  url: "https://aws.amazon.com/" 
+  summary: Currently preparing to gain AWS qualifications.
+  tags: ["academic", "cloud", "architect", "devops"]
 
 - name: Nocode
   logo: /images/sections/projects/no-code.png
   role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
+  timeline: "Since the big bang"
   repo: https://github.com/kelseyhightower/nocode
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere. That which was never deployed cannot be broken.
   tags: ["hobby", "fun"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: bcacheFS
+  logo: /images/sections/projects/bcachefs.png
+  role: Guinea Pig
+  timeline: "2023 - Present"
+  url: https://bcachefs.org/
+  summary: Bcachefs is an advanced new filesystem for Linux, with an emphasis on reliability and robustness and the complete set of features one would expect from a modern filesystem.
+  tags: ["hobby","filesystem","copy-on-write","data-checksumming"]
+
+- name: Upscayl 
+  logo: /images/sections/projects/upscayl.png
+  role: Contributor
+  timeline: "2022 - Present"
+  repo: https://github.com/upscayl/upscayl
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere. That which was never deployed cannot be broken.
+  tags: ["hobby", "ai", "image upscaler", "esrgan"]
+
+  - name: SwayWM 
+  logo: /images/sections/projects/swaywm.png
+  role: User, Bug Reporter
+  timeline: "2019 - Present"
+  repo: https://github.com/swaywm/sway
+  summary: A highly configurable, i3-compatible Wayland compositor. 
+  tags: ["hobby", "wayland", "tiling-wm", "no-more-tearing"]
+
+  - name: Distrobox
+  logo: /images/sections/projects/distrobox.png
+  role: User
+  timeline: "2020 - Present"
+  repo: https://github.com/89luca89/distrobox
+  summary: Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with.
+  tags: ["hobby", "docker", "containers", "podman"]
