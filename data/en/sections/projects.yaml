@@ -69,7 +69,7 @@ projects:
   timeline: "2023 - Present"
   url: https://bcachefs.org/
   summary: Bcachefs is an advanced new filesystem for Linux, with an emphasis on reliability and robustness and the complete set of features one would expect from a modern filesystem.
-  tags: ["hobby","filesystem","copy-on-write","data-checksumming"]
+  tags: ["hobby", "filesystem", "copy-on-write", "data-checksumming"]
 
 - name: Upscayl 
   logo: /images/sections/projects/upscayl.png
