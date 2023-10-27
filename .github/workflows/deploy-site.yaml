@@ -43,6 +43,8 @@ jobs:
     - name: Add CNAME to git
       run: |
         cd ./public
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add CNAME
         git commit -m "Add CNAME file"
 
