@@ -10,23 +10,45 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
+- name: Adv. Diploma Networking & Cloud
+  icon: fa-graduation-cap
+  timeframe: 2023-2024
   institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
+    name: TAFE Queensland
+    url: "https://tafeqld.edu.au"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 7
+    courses:
+    - name: Workplace cyber security awareness and best practices 
+    - name: Install, operate and troubleshoot medium enterprise switches/routers
+    - name: Design, build and test network servers
+    - name: Design and implement integrated server solutions
+    - name: Install and manage complex ICT networks
+    - name: Configure and manage advanced virtual computing environments
+    - name: Install an enterprise virtual computing environment
+    - name: Implement virtual network in cloud environments
+    - name: Build and deploy resources on cloud platforms
+    - name: Implement cloud infrastructure with code
+    - name: Manage infrastructure in cloud environments
+    - name: Manage network security
+    - name: Match ICT needs with the strategic direction of the organisation 
+    - name: Apply IP, ethics and privacy in ICT environments 
+    - name: Manage client problems 
+    - name: Lead and facilitate a team 
+    - name: Originate and develop concepts  
+    - name: Configure, verify and troubleshoot WAN links and IP services
+    - name: Plan, implement and test enterprise communication solutions
+  #publications: #(optional)
+  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #  url: "#"
+  #- title: Fusce eu augue ut odio porttitor pulvinar.
+  #  url: "#"
+  extracurricularActivities: #(optional)
+  - Deployed virtualized homelab; Proxmox, pfSense, Pi-hole, TrueNAS etc.
+  - Developed Github repository "Cisco-send" - a python script to automate handling configs on Cisco devices.
+  - Maintained/updated Github repository "cisco-cheatsheet".
 - name: B.Sc. in Computer Science & Engineering
   icon: fa-graduation-cap
   timeframe: 2012-2016
