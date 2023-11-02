@@ -49,64 +49,59 @@ degrees:
   - Deployed virtualized homelab; Proxmox, pfSense, Pi-hole, TrueNAS etc.
   - Developed Github repository "Cisco-send" - a python script to automate handling configs on Cisco devices.
   - Maintained/updated Github repository "cisco-cheatsheet".
-- name: B.Sc. in Computer Science & Engineering
+  publications: #(optional)
+  - title: Cisco-send
+    url: "https://github.com/MrPenguin07/cisco-send"
+  - title: Cisco-cheatsheet
+    url: "https://github.com/MrPenguin07/cisco-cheatsheet"
+- name: Cert. IV Training and Assessment
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2009
   institution:
-    name: University of XYZ
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    name: Australia City College
+    url: ""
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
+    showGrades: false
+    collapseAfter: 5
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+    - name: Work effectively in vocational education and training
+    - name: Foster and promote an inclusive learning culture
+    - name: Ensure a healthy and safe learning environment
+    - name: Use Training Packages to meet client needs
+    - name: Design and develop learning programs
+    - name: Plan and organise group based delivery
+    - name: Facilitate work based learning
+    - name: Facilitate individual learning
+    - name: Plan and organise assessment
+    - name: Assess competence
+    - name: Develop assessment tools
+    - name: Participate in assessment validation
+    - name: Facilitate group-based learning
+    - name: Provide training through instruction and demonstration of work skills
+- name: Cert. IV Small Business Management
+  icon: fa-graduation-cap
+  timeframe: 2007-2008
+  institution: 
+    name: Sarina Russo
+    url: "https://www.sarinarusso.com/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 5
+    courses:
+    - name: Research and develop business plans
+    - name: Establish legal and risk management requirements of new business ventures
+    - name: Plan finances for new business ventures
+    - name: Market new business ventures
+    - name: Manage compliance for small businesses
+    - name: Establish operational strategies and procedures for new business ventures 
+    - name: Implement customer service strategies
+    - name: Lead and facilitate a team
+    - name: Coordinate business resources 
+    - name: Coordinate recruitment and onboarding
 - name: Secondary School Certificate
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2002
   institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    name: Hervey Bay State High
