@@ -11,54 +11,67 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    name: Open Source Contributions
+    url: "https://www.github.com/MrPenguin07"
+    location: Hobbyist
+    overview: Engaged in various open source projects, contributing to code, documentation, and community support.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+  - designation: Community Contributor
+    start: "2002"
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Tireless hunt & reporting of bugs, code submissions, improving documentation for multiple projects.
+    - Community involvement and support via mailing lists and discussion boards.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Personal Projects
+    url: "https://www.github.com/MrPenguin07"
+    location: Hobbyist
+    overview: A collection of personal, forked and maintained projects showcasing expertise in programming and system administration.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Development and Systems Administration
+    start: "2002"
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Developed and maintained various shell and Python projects, viewable in public GitHub repository.
+    - Authored [Cisco-send](https://github.com/MrPenguin07/cisco-send)
+    - Authored [Pywal-trigger](https://github.com/MrPenguin07/pywal-trigger)
+    - Authored [Dolphin Shred-it](https://github.com/MrPenguin07/dolphin.shred-it)
+    - Maintain & Expand [Cisco Cheatsheet](https://github.com/MrPenguin07/cisco-cheatsheet)
+    - Deployed a Proxmox-based virtualization cluster utilizing sophisticated networking techniques to serve a versatile homelab environment.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Optimization & Hardening
+    url: "https://kernel.org/"
+    location: Hobbyist
+    overview: OCD in optimizing and securing the Linux kernel and systems through personal initiatives and projects.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Linux Kernel Enthusiast
+    start: "2002"
+    end: "Present"
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Engaged in continuous Linux kernel and system optimization for performance enhancement.
+    - Implemented security hardening techniques to ensure system integrity and resilience against vulnerabilities.
+    - Maintain up-to-date knowledge of the latest security practices.
+
+- company:
+    name: Cloud Computing - AWS & Oracle
+    url: ""
+    location: Remote
+    overview: Implemented personal projects in the cloud and completed AWS training as part of diploma certification.
+  positions:
+  - designation: Cloud Computing Hobbyist
+    start: "2020"
+    responsibilities:
+    - Deployed personal projects on AWS, utilizing headless CMS, EC2, S3, Lambda etc.
+    - Currently undergoing AWS certification to formalize and enhance cloud computing skills.  
+
+- company:
+    name: Freelance Web Development
+    url: ""
+    location: Remote
+    overview: Designed and developed content management systems for personal business and friends' ventures.
+  positions:
+  - designation: Freelance Web Developer
+    start: "2008"
+    responsibilities:
+    - Full-stack development from graphic design to backend programming for CMS websites.
+    - Tailored UI/UX design to enhance engagement and website functionality.
