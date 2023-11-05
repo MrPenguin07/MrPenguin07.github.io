@@ -1,0 +1,9 @@
+---
+title: Interesting-Projects
+menu:
+  sidebar:
+    name: Interesting Projects
+    identifier: InterestingProjects
+    parent: category
+    weight: 90
+---
