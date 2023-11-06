@@ -46,18 +46,18 @@ The following new configuration options can be used to enable the advanced rende
 
 ### New Configuration Options
 
-#### Window Blur
+##### Window Blur
 
 - `blur enable|disable`
 - `blur_xray enable|disable`
 - `blur_passes <integer>`
 - `blur_radius <integer>`
 
-#### Corner Radius
+##### Corner Radius
 
 - `corner_radius <val>`
 
-#### Window Shadows
+##### Window Shadows
 
 - `shadows enable|disable`
 - `shadows_on_csd enable|disable`
@@ -65,26 +65,56 @@ The following new configuration options can be used to enable the advanced rende
 - `shadow_color <hex color>`
 - `shadow_inactive_color <hex color>`
 
-#### LayerShell Effects
+##### LayerShell Effects
+
+layer_effects using the syntax `<layer namespace> <effects>` <br>
+
+The current layer namespaces can be shown with<br>
+`swaymsg -r -t get_outputs | jq '.[0].layer_shell_surfaces | .[] | .namespace'` <br>
+
+- Available Effects:
+
+    * `blur <enable|disable>`
+    * `blur_ignore_transparent <enable|disable>`
+    * `shadows <enable|disable>`
+    * `corner_radius <int>`
 
 > Example: `layer_effects "waybar" blur enable; shadows enable; corner_radius 6`
 
-#### Dim Unfocused Windows
+
+##### Dim Unfocused Windows
 
 - `default_dim_inactive <float>`
 - `for_window [CRITERIA] dim_inactive <float>`
 - `dim_inactive_colors.unfocused <hex color>`
 - `dim_inactive_colors.urgent <hex color>`
 
-#### Application Saturation
+##### Application Saturation
 
 - `for_window [CRITERIA] saturation <set|plus|minus> <val>`
 
+### My Personal Config
 
-## Roadmap: What’s Next for SwayFX
+Have settled, at least for now, with the following config;
+```
+smart_corner_radius on
+corner_radius 10
+default_dim_inactive 0.05
+blur enable
+blur_passes 2
+blur_radius 2
+layer_effects "waybar" "blur enable"; shadows enable
+shadows on
+shadow_blur_radius 20
+```
+
+### Roadmap: What’s Next for SwayFX
 
 - **Fade In/Out Animations**
 - **Window Movement Animations**
 
+
+
+##### <a href="https://github.com/WillPower3309/swayfx">Check out the SwayFX Github page!</a></center>
 ---
 
