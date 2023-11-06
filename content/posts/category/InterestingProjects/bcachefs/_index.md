@@ -1,8 +1,7 @@
 ---
-title: "Golang Microservices"
+title: "bcachefs"
 date: 2021-03-02T08:06:25+06:00
-hero: /images/posts/writing-posts/hire.svg
-description: Development a Microservices with Golang 
+description: A modern COW filesystem
 menu:
   sidebar:
     name: bcachefs

@@ -7,6 +7,5 @@ menu:
   sidebar:
     name: Interesting-Projects
     identifier: interesting-projects
-    parent: category
     weight: 10
 ---
