@@ -2,3 +2,9 @@
   filter: none !important;
   transform: none !important;
 }
+
+.home .content {
+    position: relative;
+    top: -75%; /* Moves carousel+image on main page */
+    height: 60%;
+}
