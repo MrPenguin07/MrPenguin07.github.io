@@ -14,12 +14,12 @@ experiences:
     name: Open Source Contributions
     url: "https://www.github.com/MrPenguin07"
     location: Hobbyist
-    overview: Engaged in various open source projects, contributing to code, documentation, and community support.
+    overview: Engaged in various open source projects.
   positions:
   - designation: Community Contributor
     start: "2002"
     responsibilities:
-    - Tireless hunt & reporting of bugs, code submissions, improving documentation for multiple projects.
+    - Hunting for & reporting bugs, code submissions, improving documentation for multiple projects.
     - Community involvement and support via mailing lists and discussion boards.
 
 - company:
@@ -36,7 +36,7 @@ experiences:
     - Authored [Pywal-trigger](https://github.com/MrPenguin07/pywal-trigger)
     - Authored [Dolphin Shred-it](https://github.com/MrPenguin07/dolphin.shred-it)
     - Maintain & Expand [Cisco Cheatsheet](https://github.com/MrPenguin07/cisco-cheatsheet)
-    - Deployed a Proxmox-based virtualization cluster utilizing sophisticated networking techniques to serve a versatile homelab environment.
+    - Deployed homelab; a Proxmox-based virtualization cluster utilizing sophisticated networking techniques to serve a versatile homelab environment.
 
 - company:
     name: Optimization & Hardening
@@ -56,12 +56,12 @@ experiences:
     name: Cloud Computing - AWS & Oracle
     url: ""
     location: Remote
-    overview: Implemented personal projects in the cloud and completed AWS training as part of diploma certification.
+    overview: Implemented personal projects in the cloud and completed Diploma based AWS training/qualifications.
   positions:
   - designation: Cloud Computing Hobbyist
     start: "2020"
     responsibilities:
-    - Deployed personal projects on AWS, utilizing headless CMS, EC2, S3, Lambda etc.
+    - Deployed personal and development projects on AWS utilizing various services such as headless CMS, Elastic beanstalk etc.
     - Currently undergoing AWS certification to formalize and enhance cloud computing skills.  
 
 - company:
@@ -70,8 +70,8 @@ experiences:
     location: Remote
     overview: Designed and developed content management systems for personal business and friends' ventures.
   positions:
-  - designation: Freelance Web Developer
+  - designation: Hobbyist Web Developer
     start: "2008"
     responsibilities:
-    - Full-stack development from graphic design to backend programming for CMS websites.
+    - Full-stack development from graphic & frontend design to backend service integration.
     - Tailored UI/UX design to enhance engagement and website functionality.
