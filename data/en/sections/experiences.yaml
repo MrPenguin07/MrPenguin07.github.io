@@ -11,18 +11,6 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Open Source Contributions
-    url: "https://www.github.com/MrPenguin07"
-    location: Hobbyist
-    overview: Engaged in various open source projects.
-  positions:
-  - designation: Community Contributor
-    start: "2002"
-    responsibilities:
-    - Hunting for & reporting bugs, code submissions, improving documentation for multiple projects.
-    - Community involvement and support via mailing lists and discussion boards.
-
-- company:
     name: Personal Projects
     url: "https://www.github.com/MrPenguin07"
     location: Hobbyist
@@ -39,10 +27,23 @@ experiences:
     - Deployed homelab; a Proxmox-based virtualization cluster utilizing sophisticated networking techniques to serve a versatile homelab environment.
 
 - company:
+    name: Open Source Contributions
+    url: "https://www.github.com/MrPenguin07"
+    location: Hobbyist
+    overview: Engaged in various open source projects.
+  positions:
+  - designation: Community Contributor
+    start: "2002"
+    responsibilities:
+    - Hunting for & reporting bugs, code submissions, improving documentation for multiple projects.
+    - Community involvement and support via mailing lists and discussion boards.
+    - Collaboration in various projects.
+
+- company:
     name: Optimization & Hardening
     url: "https://kernel.org/"
     location: Hobbyist
-    overview: Dedicated to (OCD about) optimizing and securing the Linux kernel and systems through extensive educational exploration and perseverence.
+    overview: Dedicated to (OCD about) optimizing and securing the Linux kernel and it's array of components.
   positions:
   - designation: Linux Kernel Enthusiast
     start: "2002"
@@ -62,7 +63,7 @@ experiences:
     start: "2020"
     responsibilities:
     - Deployed personal and development projects on AWS utilizing various services such as headless CMS, Elastic beanstalk etc.
-    - Currently undergoing AWS certification to formalize and enhance cloud computing skills.  
+    - Currently studying for AWS certification to formalize and enhance cloud computing skills.  
 
 - company:
     name: Freelance Web Development
@@ -71,7 +72,7 @@ experiences:
     overview: Designed and developed content management systems for personal business and friends' ventures.
   positions:
   - designation: Hobbyist Web Developer
-    start: "2008"
+    start: "2004"
     responsibilities:
     - Full-stack development from graphic & frontend design to backend service integration.
     - Tailored UI/UX design to enhance engagement and website functionality.

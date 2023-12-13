@@ -15,39 +15,36 @@ skills:
   logo: /images/sections/skills/linux.png
   summary: "Using Gentoo Linux as my main operating system since ~2004, QubesOS as secondary. Obsessed with security and efficiency. Proficient in writing bash/shell scripts."
 
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Server Administration
+  logo: /images/sections/skills/admin.png
+  summary: "Capable of configuring, deploying, managing and maintaining servers using various Operating Systems. Experienced in troubleshooting/diagnostics and efficiency monitoring"
 
 - name: Python Development
   logo: /images/sections/skills/python.png
-  summary: "Python scripter, basic capabilities in coding for diverse tasks in automation, data manipulation, and web scraping."
+  summary: "Python coding, intermediate capabilities to achieve diverse tasks in automation, data manipulation, and web scraping."
   url: "https://www.python.org/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with various providers incl. AWS, Azure, Oracle to deploy Applications, Serverless CMS, CDN, Backup/Storage services etc."
+  summary: "Experience with various providers incl. AWS, Azure, Oracle to deploy various technologies and topologies"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Experienced in leveraging Docker images to streamline deployment, enhance scalability and ensure consistent environments."
+  summary: "Skilled in leveraging Docker images to streamline deployment, enhance scalability and ensure consistent environments."
   url: "https://www.docker.com/"
 
 - name: Network Administration 
   logo: /images/sections/skills/cisco.png
   summary: "Proficient in Cisco networking, configuring routers and switches, optimizing network performance, and ensuring secure/reliable communication. Strong foundation in network protocols and troubleshooting."
-  url: "https://prometheus.io/"
 
 - name: Graphic & Web Design
   logo: /images/sections/skills/design.png
-  summary: "Since my first hand-written html website in ~2000, I've created various CMS sites for hobby and personal business."
-  url: "https://prometheus.io/"
+  summary: "From a hand-written personal html website in ~2000, have since created various static & CMS sites for hobby and personal business."
+  url: "https://www.mr-penguin.com/"
 
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development and version control on GitHub and GitLab."
-  url: "https://git-scm.com/"
 
 - name: Virtualization
   logo: /images/sections/skills/virtual.png
