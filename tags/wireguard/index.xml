@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wireguard on Professional Penguin</title><link>https://mrpenguin07.github.io/tags/wireguard/</link><description>Recent content in Wireguard on Professional Penguin</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 05 Jan 2024 08:06:25 +0600</lastBuildDate><atom:link href="https://mrpenguin07.github.io/tags/wireguard/index.xml" rel="self" type="application/rss+xml"/><item><title>Tailscale: Indistinguishable from magic</title><link>https://mrpenguin07.github.io/posts/category/interestingprojects/tailscale/tailscale/</link><pubDate>Fri, 05 Jan 2024 08:06:25 +0600</pubDate><guid>https://mrpenguin07.github.io/posts/category/interestingprojects/tailscale/tailscale/</guid><description>Introducing Tailscale:
-&amp;hellip; and the magic of pairing Tailscale and pfSense
+&amp;hellip; and the magic of pairing it with pfSense
 Redefining network topologies: Wow. Just wow.
 It isn&amp;rsquo;t often a novel project impresses me as thoroughly as Tailscale!
-There&amp;rsquo;s something magical about a project which ticks so many boxes;
+So impressive that i&amp;rsquo;m reminded of Clarke&amp;rsquo;s three laws;
+&amp;ldquo;Any sufficiently advanced technology is indistinguishable from magic&amp;rdquo;. Spot on. There&amp;rsquo;s something magical about a project which ticks so many boxes;
 It&amp;rsquo;s &amp;lsquo;simple&amp;rsquo; to setup, boasts near unlimited use cases, can be overlayed on top of an existing network - and it&amp;rsquo;s &amp;lsquo;free&amp;rsquo; tier is rather generous for individuals and likely to be all one needs.</description></item></channel></rss>
