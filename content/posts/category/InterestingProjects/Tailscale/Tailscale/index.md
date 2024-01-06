@@ -17,7 +17,7 @@ tags:
 ---
 
 # <p style="text-align: center;">Introducing Tailscale:</p>
-### <p style="text-align: center;">... and the magic of pairing Tailscale and pfSense</p>
+### <p style="text-align: center;">... and the magic of pairing it with pfSense</p>
 
 {{< img src="images/tailscale_magic.png" height="300" width="600" align="center" title="Tailscale+pfSense">}}
 
@@ -26,6 +26,8 @@ tags:
 
 Wow. Just wow.<br>
 It isn't often a novel project impresses me as thoroughly as Tailscale!<br>
+So impressive that i'm reminded of Clarke's three laws;<br>
+"Any sufficiently advanced technology is indistinguishable from magic". Spot on. <br>
 
 There's something magical about a project which ticks so many boxes;<br>
 It's 'simple' to setup, boasts near unlimited use cases, can be overlayed on top of an existing network - and it's 'free' tier is rather generous for individuals and likely to be all one needs.<br>
@@ -94,7 +96,7 @@ This solution optimizes network performance, ensures security, and simplifies th
 **Bypassing CGNAT / Dbl. NAT:**<br>
 
 My homelab is behind a Dbl NAT - which makes forwarding ports, and listening as a traditional server for incomming connections impossible.<br>
-Not the case with Tailscale, users are able to simple bypass/traverse restrictive NAT networks with zero config. Actually mesh devices simply don't care where they are or what the topology of networks between each node look like; so long as the device can reach the main auth server, they will create encrypted tunnels. Wonderful.
+Not the case with Tailscale, users are able to simply bypass/traverse restrictive NAT networks with zero config. Actually mesh devices simply don't care where they are or what the topology of networks between each node look like; so long as the device can reach the main auth server, they will create encrypted tunnels. Wonderful.
 
 
 **Each node has access to server resources and LAN subnets:**<br>
