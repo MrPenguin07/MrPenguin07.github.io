@@ -138,6 +138,16 @@ A fair enough question.<br>
 Thus far, the only con worth mentioning is the potential throughput limitation/bottleneck which - although i've personally never reached it - is inherent in the projects use of Go language; the networking stack for *BSD based devices is unfortunately in userland instead of the kernel.<br>
 There is a well written blog on this topic in the official documentation.
 
+**Alternatives:**<br>
+
+There are a few competitors such as;<br>
+- Twingate
+- ZeroTier
+- Headscale (self hosted Tailscale)
+
+Which i'll be keeping an eye on to see which proves itself the king of overlay networking.
+
+
 ### Related Video:
 ---
 

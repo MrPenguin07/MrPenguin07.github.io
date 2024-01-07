@@ -100,7 +100,7 @@ params:
       shareButtons:
         facebook: false
         twitter: false
-        linkedin: true
+        linkedin: false
         reddit: false
         whatsapp: false
         email: true
