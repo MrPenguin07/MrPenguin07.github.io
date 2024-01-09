@@ -8,7 +8,7 @@ image: "images/author/profile2.jpg"
 contactInfo:
   email: "cjgibb@protonmail.com"
   github: mrpenguin07
-  linkedin: tba
+#  linkedin: tba
 
 # some summary about what you do
 summary:
