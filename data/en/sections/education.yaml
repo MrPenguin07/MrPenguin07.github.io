@@ -47,8 +47,9 @@ degrees:
   #  url: "#"
   extracurricularActivities: #(optional)
   - Deployed virtualized homelab; Proxmox, pfSense, Pi-hole, TrueNAS etc.
-  - Developed Github repository "Cisco-send" - a python script to automate handling configs on Cisco devices.
-  - Maintained/updated Github repository "cisco-cheatsheet".
+  - Authored GitHub repository "Cisco-send" - a python script to automate pushing configs to Cisco devices.
+  - Authored various other small projects.
+  - Maintain/Renew GitHub repository "Cisco-cheatsheet".
   publications: #(optional)
   - title: Cisco-send
     url: "https://github.com/MrPenguin07/cisco-send"
