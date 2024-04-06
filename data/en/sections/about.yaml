@@ -11,15 +11,15 @@ section:
 designation: Computing Enthusiast
 # your company information
 company:
-  name: Your Company here!
-  url: "https://www.this-penguin-is-for-hire.com"
+  name: a South Pole Igloo
+  url: "https://www.to-be-updated.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a FOSS & linux enthusiast - a master tinkerer. I compile, deploy, script, encrypt, and squash bugs. Kernel and security hardening float my boat. In the midst of a career change to I.T - what I was born to do. Currently looking for opportunities, feel free to contact me via email!'
+summary: 'I am a FOSS & linux enthusiast - a master tinkerer. I compile, deploy, script, encrypt, and squash bugs. Kernel and security hardening float my boat.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
