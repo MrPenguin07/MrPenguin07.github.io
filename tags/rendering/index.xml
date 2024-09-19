@@ -1,3 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rendering on Professional Penguin</title><link>https://mrpenguin07.github.io/tags/rendering/</link><description>Recent content in Rendering on Professional Penguin</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Nov 2023 08:06:25 +0600</lastBuildDate><atom:link href="https://mrpenguin07.github.io/tags/rendering/index.xml" rel="self" type="application/rss+xml"/><item><title>SwayFX: Sway, but with eye candy!</title><link>https://mrpenguin07.github.io/posts/category/interestingprojects/swaywm+swayfx/swayfx/</link><pubDate>Sun, 05 Nov 2023 08:06:25 +0600</pubDate><guid>https://mrpenguin07.github.io/posts/category/interestingprojects/swaywm+swayfx/swayfx/</guid><description>Introducing SwayFX: A Cutting-Edge Fork of the Sway Window Manager Enhanced Rendering with FX_Renderer SwayFX, a pioneering fork of the well-established Wayland window manager Sway, brings revolutionary features and visual enhancements.
-Central to SwayFX is the fx_renderer, which replaces the simpler wlr_renderer, unleashing the potential of GLES2 for a visually stunning desktop experience.
-Key Features Blur Effects Rounded Corners and Borders Shadows Dim Unfocused Windows Per Application Saturation Control Seamless Integration with Sway SwayFX maintains complete compatibility with the Sway configuration file, allowing users to transition smoothly without needing to alter their existing setups.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rendering on Professional Penguin</title><link>https://mrpenguin07.github.io/tags/rendering/</link><description>Recent content in Rendering on Professional Penguin</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Nov 2023 08:06:25 +0600</lastBuildDate><atom:link href="https://mrpenguin07.github.io/tags/rendering/index.xml" rel="self" type="application/rss+xml"/><item><title>SwayFX: Sway, but with eye candy!</title><link>https://mrpenguin07.github.io/posts/category/interestingprojects/swaywm+swayfx/swayfx/</link><pubDate>Sun, 05 Nov 2023 08:06:25 +0600</pubDate><guid>https://mrpenguin07.github.io/posts/category/interestingprojects/swaywm+swayfx/swayfx/</guid><description>&lt;h1 id="introducing-swayfx">Introducing SwayFX:&lt;/h1>
+&lt;h3 id="a-cutting-edge-fork-of-the-sway-window-manager">A Cutting-Edge Fork of the Sway Window Manager&lt;/h3>
+&lt;img src="images/swayfx_logo.svg"
+alt="SwayFX Logo"
+width="300"
+height="300"
+class="left"
+>
+&lt;h2 id="enhanced-rendering-with-fx_renderer">Enhanced Rendering with FX_Renderer&lt;/h2>
+&lt;p>SwayFX, a pioneering fork of the well-established Wayland window manager Sway, brings revolutionary features and visual enhancements.&lt;br>
+Central to SwayFX is the &lt;code>fx_renderer&lt;/code>, which replaces the simpler &lt;code>wlr_renderer&lt;/code>, unleashing the potential of GLES2 for a visually stunning desktop experience.&lt;/p>
+&lt;h3 id="key-features">Key Features&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Blur Effects&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Rounded Corners and Borders&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Shadows&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Dim Unfocused Windows&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Per Application Saturation Control&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h2 id="seamless-integration-with-sway">Seamless Integration with Sway&lt;/h2>
+&lt;p>SwayFX maintains complete compatibility with the Sway configuration file, allowing users to transition smoothly without needing to alter their existing setups.&lt;br>
+The following new configuration options can be used to enable the advanced rendering feature set.&lt;/p></description></item></channel></rss>
