@@ -148,13 +148,13 @@ params:
         #   hideDeleted: false
 
     # Enable Analytics
-    
+
     analytics:
       enabled: true
       services:
         # Google Analytics
-        #google:
-        #  id: G-H4LBG7NDFZ
+        # google:
+        # id: UA-XXXXXXXXX-X
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
