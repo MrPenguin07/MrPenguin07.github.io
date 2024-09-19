@@ -35,6 +35,19 @@ jobs:
     - name: Build
       run: hugo --minify
 
+    # Create CNAME
+    - name: Create CNAME
+      run: echo 'www.mr-penguin.com' > ./public/CNAME
+
+    # Add CNAME to git
+    - name: Add CNAME to git
+      run: |
+        cd ./public
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add CNAME
+        git commit -m "Add CNAME file"
+
     # push the generated content into the `gh-pages` branch.
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4.0.0
