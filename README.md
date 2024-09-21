@@ -1,7 +1,7 @@
 # Professional Penguin's igloo;
 ### www.mr-penguin.com
 - A quasi resume showing signs of an inflated ego.
-- Homelab topology located [here](www.mr-pengiun.com/homelab.lan-topology.png)
+- Homelab topology located [here](https://www.mr-penguin.com/files/homelab.lan-topology.png)
 
 -----------
 Credits for the template to:
